@@ -1,0 +1,1 @@
+Dòng này được chỉnh sửa trong branch test_conflict.
